@@ -44,8 +44,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-<img width="1920" height="1080" alt="Screenshot 2025-11-25 141723" src="https://github.com/user-attachments/assets/bd61000a-0e2b-4a06-a96a-db706e86d604" />
-<img width="1920" height="1080" alt="Screenshot 2025-11-25 142022" src="https://github.com/user-attachments/assets/3e1b7878-a6ea-438d-8246-fdc310e07ac6" />
+<img width="429" height="518" alt="image" src="https://github.com/user-attachments/assets/8331997f-b336-4605-a4be-4a66f2d14f4f" />
 
 ### Name:PERARASU K
 ### Register Number: 25004665
